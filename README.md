@@ -8,7 +8,7 @@ The MULTIPASS Version 3 (MPv3) has all the features of the Multipass version 2 w
 
 - QT Py 2040
 
-- New Top and Bottom 3D models
+- New Top and Bottom 3D models (3 parts)
 
 - Acrylic diffuser
 
@@ -30,4 +30,4 @@ The MULTIPASS Version 3 (MPv3) has all the features of the Multipass version 2 w
 
 - Sound (voice of LeeLoo)
 
-= 0n/off button
+- 0n/off button

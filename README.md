@@ -114,16 +114,13 @@ you can use a solid color option (https://www.adafruit.com/product/1446) the cho
 - The Acrylic I used clear green 1/4” for the stem/rod and lense. Also for the lens, I used 1/4” green. As long as its diffusible, the choose is yours. I left the tape on the bottom of the lens to better diffuse the leds. Or you can adjust the brightness in the code.
 
 
- 
 #### FILES
 
 - MultipassV2_Demo.mov - This shows some of the features of the multipass version 2
 
-- MultiPass_Version2.fzz - Parts drawing and connectivity
+- MP3wiring.fzz - Parts drawing and connectivity
 
-- multipass3.wav - Wav file for Leeloo's voice
-
-- Multipass_TOP_V2.stl - 3D model for multipass top
+- MP3_Badge_HolderExtFINAL3.stl - Badge Holder
 
 - Multipass_BOTTOM_V2.stl - 3D model for multipass bottom
 

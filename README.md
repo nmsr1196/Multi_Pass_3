@@ -107,34 +107,12 @@ Many of the parts are found in MPv2
 
 you can use a solid color option (https://www.adafruit.com/product/1446) the choice is yours.
 
-- OLED SSD1306 I2C Display (https://www.amazon.com/Pieces-Display-Module-SSD1306-Screen/dp/B08N6N8L5Q/ref=sr_1_8?dchild=1&keywords=oled+i2c&qid=1622717100&sr=8-8) You can use any version of the ssd1306. I chose this one because of its small footprint and low profile and its wiring connections
-
-on one end.
+- OLED SSD1306 I2C Display (https://www.amazon.com/Pieces-Display-Module-SSD1306-Screen/dp/B08N6N8L5Q/ref=sr_1_8?dchild=1&keywords=oled+i2c&qid=1622717100&sr=8-8) You can use any version of the ssd1306. I chose this one because of its small footprint and low profile and its wiring connections on one end.
 
 - 3D Material  I had some Prusa Silver PLA. You can use any color/material. I used silver because I did not want the cosplay police coming after me
 
-- Acrylic I used clear green 1/4” for the stem/rod and lense. Also for the lens, I used 1/4” green. As long as its diffusible, the choose is yours. I left the tape on the bottom of the lens to better diffuse the leds. Or you can adjust the brightness in the code.
+- The Acrylic I used clear green 1/4” for the stem/rod and lense. Also for the lens, I used 1/4” green. As long as its diffusible, the choose is yours. I left the tape on the bottom of the lens to better diffuse the leds. Or you can adjust the brightness in the code.
 
-- Light Cardstock or black paper or regular paper. The color and choice is up to you. I used a cricut to cut the shape.
-
-
-#### MULTIPASS CARD:
-
-Movie Card
-
-- I used a replica of the movie card I created in Photoshop. The Photoshop file is included. This file is in version 1.
-
-You will have to change the following because in order to get to ‘Fhloston Paradise’ duplicate IDs are highly unacceptable:
-
-- name
-
-- pictures 
-
-- numbers below pictures
-
-- The size of the pictures can be done in Photoshop (PS) menu: ‘Image’, ‘Image Size’. Or another program of your choosing.
-
-- For the X-ray picture, Copy your original picture and use PS to ‘invert’ the image under ‘Image, ‘Adjustments’ the ‘Invert’ menu.
 
 
 #### FILES

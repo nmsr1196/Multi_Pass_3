@@ -1,0 +1,254 @@
+solid acrylicDiffuse2.stl
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 121.65 97.7173 3.64999
+      vertex 121.65 83.45 3.64999
+      vertex 123.15 97.7173 3.64999
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 123.15 97.7173 3.64999
+      vertex 121.65 83.45 3.64999
+      vertex 123.15 83.45 3.64999
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 121.65 126.55 3.64999
+      vertex 121.65 114.05 3.64999
+      vertex 123.15 126.55 3.64999
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 123.15 126.55 3.64999
+      vertex 121.65 114.05 3.64999
+      vertex 123.15 114.05 3.64999
+    endloop
+  endfacet
+  facet normal 0 1 2.23517e-08
+    outer loop
+      vertex 123.15 97.7173 3.64999
+      vertex 123.15 97.7173 1.75
+      vertex 121.65 97.7173 3.64999
+    endloop
+  endfacet
+  facet normal 0 1 2.23517e-08
+    outer loop
+      vertex 121.65 97.7173 3.64999
+      vertex 123.15 97.7173 1.75
+      vertex 121.65 97.7173 1.75
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 123.15 97.7173 3.64999
+      vertex 123.15 83.45 3.64999
+      vertex 123.15 97.7173 1.75
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 123.15 97.7173 1.75
+      vertex 123.15 83.45 3.64999
+      vertex 123.15 83.45 1.75
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 123.15 126.55 3.64999
+      vertex 123.15 114.05 3.64999
+      vertex 123.15 126.55 1.75
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 123.15 126.55 1.75
+      vertex 123.15 114.05 3.64999
+      vertex 123.15 114.05 1.75
+    endloop
+  endfacet
+  facet normal 0 -1 -2.23517e-08
+    outer loop
+      vertex 121.65 114.05 3.64999
+      vertex 121.65 114.05 1.75
+      vertex 123.15 114.05 3.64999
+    endloop
+  endfacet
+  facet normal 0 -1 -2.23517e-08
+    outer loop
+      vertex 123.15 114.05 3.64999
+      vertex 121.65 114.05 1.75
+      vertex 123.15 114.05 1.75
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 128.35 83.45 0
+      vertex 128.35 126.55 0
+      vertex 128.35 83.45 1.75
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 128.35 83.45 1.75
+      vertex 128.35 126.55 0
+      vertex 128.35 126.55 1.75
+    endloop
+  endfacet
+  facet normal 0 2.23517e-08 -1
+    outer loop
+      vertex 121.65 83.45 0
+      vertex 121.65 126.55 0
+      vertex 128.35 83.45 0
+    endloop
+  endfacet
+  facet normal 0 2.23517e-08 -1
+    outer loop
+      vertex 128.35 83.45 0
+      vertex 121.65 126.55 0
+      vertex 128.35 126.55 0
+    endloop
+  endfacet
+  facet normal 0 1 2.23517e-08
+    outer loop
+      vertex 123.15 126.55 3.64999
+      vertex 123.15 126.55 1.75
+      vertex 121.65 126.55 3.64999
+    endloop
+  endfacet
+  facet normal 0 1 2.23517e-08
+    outer loop
+      vertex 121.65 126.55 3.64999
+      vertex 123.15 126.55 1.75
+      vertex 121.65 126.55 0
+    endloop
+  endfacet
+  facet normal 0 1 2.23517e-08
+    outer loop
+      vertex 121.65 126.55 0
+      vertex 123.15 126.55 1.75
+      vertex 128.35 126.55 0
+    endloop
+  endfacet
+  facet normal 0 1 2.23517e-08
+    outer loop
+      vertex 128.35 126.55 0
+      vertex 123.15 126.55 1.75
+      vertex 128.35 126.55 1.75
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 121.65 97.7173 3.64999
+      vertex 121.65 97.7173 1.75
+      vertex 121.65 83.45 3.64999
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 121.65 83.45 3.64999
+      vertex 121.65 97.7173 1.75
+      vertex 121.65 83.45 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 121.65 83.45 0
+      vertex 121.65 97.7173 1.75
+      vertex 121.65 126.55 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 121.65 126.55 0
+      vertex 121.65 97.7173 1.75
+      vertex 121.65 114.05 1.75
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 121.65 126.55 0
+      vertex 121.65 114.05 1.75
+      vertex 121.65 126.55 3.64999
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 121.65 126.55 3.64999
+      vertex 121.65 114.05 1.75
+      vertex 121.65 114.05 3.64999
+    endloop
+  endfacet
+  facet normal 0 -1 -2.23517e-08
+    outer loop
+      vertex 123.15 83.45 3.64999
+      vertex 121.65 83.45 3.64999
+      vertex 123.15 83.45 1.75
+    endloop
+  endfacet
+  facet normal 0 -1 -2.23517e-08
+    outer loop
+      vertex 123.15 83.45 1.75
+      vertex 121.65 83.45 3.64999
+      vertex 121.65 83.45 0
+    endloop
+  endfacet
+  facet normal 0 -1 -2.23517e-08
+    outer loop
+      vertex 123.15 83.45 1.75
+      vertex 121.65 83.45 0
+      vertex 128.35 83.45 0
+    endloop
+  endfacet
+  facet normal 0 -1 -2.23517e-08
+    outer loop
+      vertex 128.35 83.45 0
+      vertex 128.35 83.45 1.75
+      vertex 123.15 83.45 1.75
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 123.15 83.45 1.75
+      vertex 128.35 83.45 1.75
+      vertex 123.15 97.7173 1.75
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 123.15 97.7173 1.75
+      vertex 128.35 83.45 1.75
+      vertex 128.35 126.55 1.75
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 123.15 97.7173 1.75
+      vertex 128.35 126.55 1.75
+      vertex 123.15 114.05 1.75
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 123.15 114.05 1.75
+      vertex 128.35 126.55 1.75
+      vertex 123.15 126.55 1.75
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 121.65 114.05 1.75
+      vertex 121.65 97.7173 1.75
+      vertex 123.15 114.05 1.75
+    endloop
+  endfacet
+  facet normal 0 -2.23517e-08 1
+    outer loop
+      vertex 123.15 114.05 1.75
+      vertex 121.65 97.7173 1.75
+      vertex 123.15 97.7173 1.75
+    endloop
+  endfacet
+endsolid acrylicDiffuse2.stl

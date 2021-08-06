@@ -88,6 +88,8 @@ Many of the parts are found in MPv2
 
 - Stemma Speaker (https://www.adafruit.com/product/3885)
 
+- Nextion 5" touch display (https://itead.cc/product/nx8048t050-nextion-5-0-basic-series-hmi-touch-display/)
+
 - 7 Jewel Neopixel (https://www.adafruit.com/product/2859 )  This goes into the lens disc hole
 
 - Adafruit LED Sequins - Emerald Green, Pack of 5 (these are 3 of the lights I used for the rod and the night light) https://www.adafruit.com/product/1756
@@ -129,6 +131,16 @@ you can use a solid color option (https://www.adafruit.com/product/1446) the cho
 - Multipass3_Rod_.pdf - This is the acrylic rod for laser cutting.  You may have to adjust for 3D printing dependant on material.
 
 - MP3_Lense.pdf- This is the acrylic rod for laser cutting. You may have to adjust for 3D printing dependant on material.
+
+- multipass3.wav - Sound file with LeeLoo voice
+
+- BackTopCover.stl - This is the back top cover 
+
+- lowerback.stl - This is the lower back cover
+
+- Multipass3.HMI - This is the configuration file for the display. This contains all the pictures/photos displayed in the demo
+
+
 
 
 

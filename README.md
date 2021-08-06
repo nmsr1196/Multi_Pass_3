@@ -16,7 +16,7 @@
 The MULTIPASS Version 3 (MPv3) has all the features of the Multipass version 2 with a few extras. 
 #### NEW FEATURES: 
 
-- QT Py 2040
+- QT Py 2040 (Powered by CircuitPython v6.3.0)
 
 - New Top and Bottom 3D models (3 parts)
 

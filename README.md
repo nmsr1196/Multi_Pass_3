@@ -57,6 +57,8 @@ As mentioned before, the 3D models for MP3 is different from MPv1 and MPv2. The 
 
 - The geometry for the top and back parts had to be changed to support the nextion display
 
+- ** Note**  The badge holder snaps onto the board of the nextion display
+
 
 #### ACRYLIC: 
 

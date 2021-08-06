@@ -74,11 +74,11 @@ As mentioned before, the 3D models for MP3 is different from MPv1 and MPv2. The 
 
 - Due to the nextion display I would suggest usesing a LiPo battery 420mAh or greater.. 
 
-- The battery will be recharged via the power boost500. You can use the Powerboost 500 or 1000.
+- The battery will be recharged via the power boost500. You can use  Powerboost 500 or 1000.
 
-- 420 mAh LiPo (https://www.adafruit.com/product/4236) You can use a smaller size, Its just what I had at the time.
+- 420 mAh LiPo (https://www.adafruit.com/product/4236) is used in the demo.
 
-- Powerboost (https://www.adafruit.com/product/2465)  or if you have a different type of LiPo charger, you can use that.
+- Powerboost (https://www.adafruit.com/product/2465)  or if you have a different type of LiPo charger, you can use that. Make sure it supports 400mA or more.
 
 - Diode - Used a diode to connect to 5 volt pin of the QT Py 2040. Cathode side to 5V pin of QT Py (https://learn.adafruit.com/adafruit-qt-py-2040/pinouts) Cathode
 

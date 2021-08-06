@@ -122,13 +122,13 @@ you can use a solid color option (https://www.adafruit.com/product/1446) the cho
 
 - MP3_Badge_HolderExtFINAL3.stl - Badge Holder
 
-- Multipass_BOTTOM_V2.stl - 3D model for multipass bottom
+- MP3_TOP.stl - 3D model for multipass top
 
-- Multipass_V2.py - This is the CircuitPython code. You will need to rename this file to 'code.py' and load libraries listed in code.
+- codeFINAL.py - This is the CircuitPython code. You will need to rename this file to 'code.py' and load libraries listed in code.
 
-- Multipass_V2_Rod.stl - This is the acrylic rod for laser cutting. This measures 3.99mm x 40.9mm. You may have to adjust for 3D printing dependant on material.
+- Multipass3_Rod_.pdf - This is the acrylic rod for laser cutting.  You may have to adjust for 3D printing dependant on material.
 
-- Multpass_V2_lense.svg - This is the acrylic rod for laser cutting. This measures 25.8mm. You may have to adjust for 3D printing dependant on material.
+- MP3_Lense.pdf- This is the acrylic rod for laser cutting. You may have to adjust for 3D printing dependant on material.
 
 
 

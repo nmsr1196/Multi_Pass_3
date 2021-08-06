@@ -6,6 +6,9 @@
 
 ![Image of MultiPassV2](https://github.com/nmsr1196/Multi_Pass_3/blob/main/Multitag.png)
 
+![Image of MultiPassV2](https://github.com/nmsr1196/Multi_Pass_3/blob/main/NextionNoParts.png)
+
+![Image of MultiPassV2](https://github.com/nmsr1196/Multi_Pass_3/blob/main/Nextion_Parts.png)
 
 
 

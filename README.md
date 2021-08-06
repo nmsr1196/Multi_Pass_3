@@ -51,6 +51,7 @@ The wiring connectivity can be found in the 'MP3wiring.fzz' document file.
 
 I used hot glue to secure the parts. And just a small bead on the bottom of the QT Py 2040. But, be careful not to let it bleed into
 the bottom part. The Nextion display edges were hotglued to the top and back model edges to secure it.
+*****When hotglueing parts on the display board, be careful not to hotglue on the gold ribbon cable. 
 
 #### 3D PRINTING MODIFICATION: 
 
